@@ -7,4 +7,4 @@ A project from Odin about recipes
 * Mac and Cheese
 
 #### Author:
-Philsizwe Kuzwayo (01.03.2023)
+Philisizwe Kuzwayo (01.03.2023)
